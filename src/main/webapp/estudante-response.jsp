@@ -8,6 +8,7 @@
 </head>
 <body>
 
-
+	Aluno:<%=request.getParameter("nome") %><br/>
+	RGM:<%=request.getParameter("rgm") %><br/>
 </body>
 </html>
